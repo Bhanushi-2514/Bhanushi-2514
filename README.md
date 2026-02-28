@@ -72,7 +72,7 @@ Features:
 - Live blog posts published
 
 This project reflects my interest in storytelling, design, and full stack development.
-🔗 Live Blog: https://velvetshadow.onrender.com
+🔗 Live Blog:  https://velvet-shadow.onrender.com
 
 ---
 
