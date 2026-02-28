@@ -7,13 +7,20 @@ M.Com Graduate (2025) | IT Faculty
 
 ## 👩‍💻 About Me
 
-I build full stack web applications using Django and modern frontend technologies.
+I am a Full Stack Developer and Data Analyst with experience in building responsive web applications and interactive dashboards.
 
-Alongside development, I work in Data Analytics using Advanced Excel, Power BI, MySQL, and Python.
+On the development side, I work with Django, Python, and modern frontend technologies to build complete web applications.
 
-Currently learning Tableau and working on structured Data Modeling projects.
+On the data side, I work with Advanced Excel, Power BI, MySQL, and Python for data cleaning, analysis, and visualization.
 
-My goal is to grow equally in Full Stack Development and Data Analytics.
+Currently, I am learning Tableau and expanding my knowledge in Data Modeling and Data Science concepts.
+
+Currently building and enhancing:
+- ⭐ Star Schema Data Model Dashboard
+- 📊 Product & Pricing Insights Dashboard
+  
+
+My goal is to grow equally in both Full Stack Development and Data Analytics.
 
 ---
 
@@ -38,33 +45,43 @@ My goal is to grow equally in Full Stack Development and Data Analytics.
 
 ---
 
-# 🌙 VelvetShadow – Django Blog Platform
+## 📈 Current Dashboard Projects
 
-A full stack blogging platform built using Django.
+### ⭐ Star Schema Data Model Dashboard
+Built using structured data modeling approach with KPIs like:
+- Total Sales
+- Profit %
+- Category & Geography Analysis
+- Daily Sales Trend
 
-🔗 Live Project: (add your live link here)
+### 📊 Product & Pricing Insights Dashboard
+Focused on:
+- Revenue vs Profit Trend
+- Category-wise Profit
+- Discount Analysis
+- Pricing Impact on Sales
 
-### Preview
-![VelvetShadow](./velvetshadow.png)
+## 🌙 VelvetShadow – Blog Platform
+
+A Django-based blogging platform built with custom UI and responsive design.
+
+Features:
+- User-friendly blog layout
+- Responsive frontend design
+- Custom styling & theme concept
+- Live blog posts published
+
+This project reflects my interest in storytelling, design, and full stack development.
+🔗 Live Blog: https://velvetshadow.onrender.com
 
 ---
 
-# 📈 Dashboard Projects
+## 🎯 Career Focus
 
-## ⭐ Star Schema Data Model Dashboard
-![Star Schema](./star_schema.png)
-
-## 📊 Product & Pricing Insights Dashboard
-![Product Pricing](./product_pricing.png)
-
-## 🛒 Swiggy Sales Dashboard
-![Swiggy Dashboard](./swiggy.png)
-
----
-
-# 📊 GitHub Stats
-
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanushi-2514&show_icons=true&theme=default)
+• Full Stack Web Application Development  
+• Data Analytics & Visualization  
+• Learning Tableau & Data Modeling  
+• Exploring Data Science fundamentals  
 
 ---
 
