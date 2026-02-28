@@ -1,17 +1,19 @@
 # Hi, I'm Anshika Saxena 👋
 
-Full Stack Developer & Data Analytics Enthusiast  
+Full Stack Developer & Data Analyst  
 M.Com Graduate (2025) | IT Faculty  
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Full Stack Developer with experience in building responsive web applications using Django and modern frontend technologies.  
+I build full stack web applications using Django and modern frontend technologies.
 
-Along with development, I work in the field of Data Analytics, teaching and using Advanced Excel, Power BI, MySQL, and Python for data analysis and visualization.
+Alongside development, I work in Data Analytics using Advanced Excel, Power BI, MySQL, and Python.
 
-I aim to grow equally in both development and data domains.
+Currently learning Tableau and working on structured Data Modeling projects.
+
+My goal is to grow equally in Full Stack Development and Data Analytics.
 
 ---
 
@@ -28,18 +30,41 @@ I aim to grow equally in both development and data domains.
 
 ## 📊 Data Analytics Skills
 
-![Excel](https://img.shields.io/badge/Advanced_Excel-green?style=flat)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-green?style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-lightgrey?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-blue?style=flat)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-lightgrey?style=flat)
 
 ---
 
-## 🎯 Career Focus
+# 🌙 VelvetShadow – Django Blog Platform
 
-• Full Stack Web Application Development  
-• Data Analytics & Visualization  
-• Exploring Data Science concepts  
+A full stack blogging platform built using Django.
+
+🔗 Live Project: (add your live link here)
+
+### Preview
+![VelvetShadow](./velvetshadow.png)
+
+---
+
+# 📈 Dashboard Projects
+
+## ⭐ Star Schema Data Model Dashboard
+![Star Schema](./star_schema.png)
+
+## 📊 Product & Pricing Insights Dashboard
+![Product Pricing](./product_pricing.png)
+
+## 🛒 Swiggy Sales Dashboard
+![Swiggy Dashboard](./swiggy.png)
+
+---
+
+# 📊 GitHub Stats
+
+![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhanushi-2514&show_icons=true&theme=default)
 
 ---
 
